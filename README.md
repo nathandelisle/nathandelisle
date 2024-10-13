@@ -1,7 +1,6 @@
 ## Hello 😁<br>
 I’m Nathan. Welcome to my github!<br>
-I'm currently most interested in: interactive displays with TouchDesigner, and visualizing algorithms/math. But everything tech is cool.<br>
-Please reach out with feedback or book recommendations:)
+Please reach out with book recommendations:)
 
 
 <!--
