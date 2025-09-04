@@ -1,6 +1,4 @@
-## Hello 😁<br>
 I’m Nathan. Welcome to my github!<br>
-Please reach out with book recommendations:)
 
 
 <!--
