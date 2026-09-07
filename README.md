@@ -1,2 +1,2 @@
-Hi! I'm Nathan. I'm a Stats and CS student at UChicago. 
-I'm interested in ML systems & safety, backend & infra, and many other things
+Hi! I'm Nathan. I'm a Math and Statistics student at UChicago. 
+I'm broadly interested in interpretability, in particular feature learning and deep learning dynamics.
